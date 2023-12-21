@@ -12,7 +12,7 @@ body{
     align-items: center;
     flex-wrap: wrap;
     height: 200vh;
-    background: background-image: url(https://u3r3f6s2.rocketcdn.me/imagens/background.png);;
+    background-image: url(images/bg2.jpg);
 }
 .star{
     color: #fff;
