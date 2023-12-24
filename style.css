@@ -12,7 +12,7 @@ body{
     align-items: center;
     flex-wrap: wrap;
     height: 200vh;
-    background: #000 url("Screenshot.png");
+    background: #000 url("Images/hst.jpg");
 }
 .star{
     color: #fff;
